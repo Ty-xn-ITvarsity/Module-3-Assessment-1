@@ -13,7 +13,7 @@ A simple web-based Recipe Book project for ITVarsity assessment. This site allow
 
 1. **Clone the repository:**
    ```sh
-   git clone https://github.com/Ty-xn-ITvarsity/Module-3-Assessment-1/recipe-book.git
+   git clone https://github.com/Ty-xn-ITvarsity/Module-3-Assessment-1.git
    ```
 2. **Open the project folder.**
 3. **Open `index.html` in your web browser to start.**
